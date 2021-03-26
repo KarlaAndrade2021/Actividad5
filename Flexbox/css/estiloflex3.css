@@ -1,0 +1,55 @@
+.contenedor{
+    display: flex;
+    width:900px;
+    flex-wrap: wrap;
+}
+.rojo{
+    background-color:red;
+    height: 200px;
+    width: 100px;
+}
+.azul{
+    background-color:blue;
+    height: 200px;
+    width: 100px;
+}
+.gris{
+    background-color:gray;
+    height: 200px;
+    width: 100px;
+}
+.negro{
+    background-color:black;
+    height: 300px;
+    width: 600px;
+}
+.naranja{
+    background-color:orange;
+    height: 300px;
+    width: 300px;
+}
+.color1{
+    background-color:red;
+    height: 400px;
+    width: 400px;
+}
+.color2{
+    background-color:blue;
+    height: 400px;
+    width: 500px;
+}
+.color3{
+    background-color:greenyellow;
+    height: 200px;
+    width: 900px;
+}
+.color4{
+    background-color:black;
+    height: 150px;
+    width: 300px;
+}
+.color5{
+    background-color:orange;
+    height: 150px;
+    width: 300px;
+}

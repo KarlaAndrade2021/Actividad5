@@ -1,0 +1,68 @@
+.general{
+    width:1200px ;
+}
+
+.n1{
+    display: flex;
+    background-color: black;
+    height: 200px;
+}
+
+.n2{
+    display: flex;
+       height: 250px;
+}
+
+.s1{
+    width: 33.33%;
+    background-color: rgb(243, 193, 56);
+}
+.s2{
+    width: 33.33%;
+    background-color: rgb(60, 52, 168);
+}
+
+
+
+.n3{
+    display: flex;
+    height: 150px;
+}
+
+.a1{
+    width: 50%;
+    background-color: rgb(133, 26, 26);
+}
+
+.a2{
+    width: 50%;
+    background-color: rgb(126, 206, 126);
+}
+
+.n4{
+    display: flex;
+    height: 300px;
+}
+
+.d1{
+    width: 83.33%;
+    background-color: rgb(209, 114, 37);
+}
+
+.d2{
+    width: 16.66%;
+    background-color: red;
+}
+
+
+
+.n5{
+    display: flex;
+    background-color: black;
+    height: 200px;
+}
+
+.n6{
+    display: flex;
+    height: 300px;
+}

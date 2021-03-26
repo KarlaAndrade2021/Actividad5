@@ -1,0 +1,64 @@
+.contenedor{
+    display: grid;
+    margin: auto;
+    width: 900px;
+    grid-template-areas: 'encab1 encab2 encab3 encab4 encab5 encab6 encab7 encab8 encab9'
+    'nav1 nav1 nav1 nav1 nav1 nav1 nav2 nav2 nav2'
+    'sector1 sector1 sector1 sector1 sector2 sector2 sector2 sector2 sector2'
+    'sector3 sector3 sector3 sector3 sector3 sector3 sector3 sector3 sector3'
+    'sector4 sector4 sector4 sector5 sector5 sector5 sector6 sector6 sector6'
+    'pie1 pie2 pie3 pie4 pie5 pie6 pie7 pie8 pie9';
+}
+.eazul{
+    
+    background-color: blue;
+    height: 200px;
+}
+.erojo{
+    background-color: red;
+    height: 200px;
+}
+.egris{
+    background-color:gray;
+    height: 200px;
+}
+.negro{
+    grid-area:nav1;
+    background-color:black;
+    height: 300px;
+}
+.naranja{
+    grid-area:nav2;
+    background-color:orange;
+    height: 300px;
+}
+.s1{
+    grid-area:sector1;
+    background-color:red;
+    height: 400px;
+}
+.s2{
+    grid-area:sector2;
+    background-color:blue;
+    height: 400px;
+}
+.s3{
+    grid-area:sector3;
+    background-color:greenyellow;
+    height: 200px;
+}
+.s4{
+    grid-area:sector4;
+    background-color:orange;
+    height: 150px;
+}
+.s5{
+    grid-area:sector5;
+    background-color:black;
+    height: 150px;
+}
+.s6{
+    grid-area:sector6;
+    background-color:orange;
+    height: 150px;
+}

@@ -1,0 +1,51 @@
+.contenedor{
+    width:1000px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.amarillo{
+    background-color: yellow;
+    height: 350px;
+    width: 1000px;
+    line-height: 350px;
+}
+.naranja{
+    background-color: orange;
+    height:125px;
+    width: 250px;
+    line-height: 125px;
+}
+.gris{
+    background-color:grey;
+    height:125px;
+    width: 250px;  
+    line-height: 125px;
+}
+.section{
+    background-color:greenyellow;
+    height:500px;
+    width: 250px;  
+    line-height: 500px;
+}
+.article{
+    height:500px;
+    width: 500px;  
+    line-height: 500px;
+    justify-content: center;
+}
+.aside{
+    background-color:greenyellow;
+    height:500px;
+    width: 250px;  
+    line-height: 500px;
+    justify-content: right;
+}
+.pie{
+    background-color:black;
+    height:50px;
+    width: 1000px;  
+    line-height: 50px;
+    color:white
+}

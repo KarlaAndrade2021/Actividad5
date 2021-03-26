@@ -1,0 +1,108 @@
+.ancho{
+    width: 1200px;
+    color: black;
+}
+
+header{
+    height: 200px;
+    background-color: black;
+    margin: auto;
+}
+
+
+
+main{
+    height: 150;
+    background-color: greenyellow;
+    margin: auto;
+}
+
+footer{
+    height: 300px;
+    background-color: red;
+    margin: auto;
+}
+
+section{
+    width: 33.33%;
+    height: 250px;
+    float: left;
+}
+
+#p1{
+    width: 50%;
+    height: 150px;
+    float: left;
+    background-color: salmon;
+}
+
+#p2{
+    width: 50%;
+    height: 150px;
+    float: left;
+    background-color: rgb(247, 0, 255);
+}
+
+#p3{
+    width: 83.33%;
+    height: 300px;
+    float: left;
+    background-color: rgb(76, 0, 255);
+}
+
+#p4{
+    width: 16.66%;
+    height: 300px;
+    float: left;
+    background-color: rgb(7, 194, 241);
+}
+
+#p5{
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+.color1{
+    background-color: royalblue;
+}
+
+.color2{
+    background-color: rgb(24, 210, 243);
+}
+.color3{
+    background-color: rgb(211, 241, 35);
+}
+.color4{
+    background-color: rgb(240, 186, 8);
+}
+
+nav{
+    height: 250px;
+    background-color: rgb(85, 184, 187);
+    margin: auto;
+}
+
+#dif{
+    height: 150px;
+    background-color: rgb(85, 184, 187);
+    margin: auto;
+}
+
+#p6{
+    width: 83.33%;
+    height: 300px;
+    float: left;
+    background-color: rgb(255, 145, 0);
+}
+
+
+#p7{
+    width: 16.66%;
+    height: 300px;
+    background-color: rgb(7, 194, 241);
+    float: left;
+}
